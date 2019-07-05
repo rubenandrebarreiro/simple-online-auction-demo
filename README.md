@@ -42,7 +42,7 @@
 
 ## Description
 
-> A **_2nd year's lab work (project)_** of the **_Professional Course of Technician of Programming and Management of Computer Systems_** made in [**_High School of Monte de Caparica_**](https://www.aecaparica.pt/escolas/escolas/escola-secundaria-do-monte-da-caparica/), in the subject of **_Communication Networks_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/) and [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/). The scenario of the project was the development of a **_Website_** dedicated to _simple demo_ of the _squad of the soccer club_ [**_F.C. Barcelona_**](https://www.fcbarcelona.com/en/) in the _season 2010/2011_. This _demo_ also address _simple and useful information about its story and titles won until the season 2010/2011_.
+> A **_3rd year's lab work (project)_** of the **_Professional Course of Technician of Programming and Management of Computer Systems_** made in [**_High School of Monte de Caparica_**](https://www.aecaparica.pt/escolas/escolas/escola-secundaria-do-monte-da-caparica/), in the subject of **_Programming of Computer Systems_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_PHP (Hypertext Preprocessor)_**](https://php.net/), [**_MySQL_**](https://www.mysql.com/), [**_WampServer_**](http://www.wampserver.com/) and [**_Notepad++ (Notepad Plus Plus)_**](https://notepad-plus-plus.org/). The scenario of the project was the development of a simple **_Website/Platform_** of _online auctions for products_, _allowing the users to view the currently registered products and users_, as also, see all _categories of products_ and the _current bids made for some products_. The system also allow to the _user to make specific queries_ to the system.
 
 ***
 
@@ -57,7 +57,6 @@
 ######  Simple Online Auction (Demo) - Screenshot #2
 
 ***
-
 
 ## Getting Started
 
