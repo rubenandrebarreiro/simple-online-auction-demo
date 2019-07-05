@@ -282,7 +282,9 @@ Query OK, 0 rows affected (0.00 sec)
 ## Contributors
 
 > Paulo São Pedro
+
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
+
 > Victor Hugo Cabral
 
 ## Contacts
