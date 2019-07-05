@@ -1,2 +1,2 @@
-# online-global-auction-demo
+# Simple Online Auction (Demo)
  
